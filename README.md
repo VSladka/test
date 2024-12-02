@@ -1,7 +1,7 @@
-# Moje webová stránka
-Toto je jednoduchý projekt na vytvoření webové stránky
+# Moje webová stránka o bratrské typografii
+Toto je jednoduchý projekt na vytvoření mojí nové webové stránky
 ## Jak spustit stránku
-Stačí otevřít soubor "index.html" v prohlížeči
+Stačí otevřít soubor [typo-graphy.cz](https://www.typo-graphy.cz/) v prohlížeči
 ## Struktura projektu
 - "index.html" - hlavní stránka
 - "style.css" - styly pro stránku
